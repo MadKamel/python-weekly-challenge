@@ -1,4 +1,5 @@
-#The Daily Python 3 Challenge
+# The Daily Python 3 Challenge
+
 I haven't done Python in a while. I am going to challenge myself each day to write a program to accomplish a certain task each day.
 
 Challenges:
